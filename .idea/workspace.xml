@@ -4,31 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c265e9b-6f64-4f71-a15a-287a6361e5b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jul22oopModulzaro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/person/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Oviparous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/Viviparous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoo/zoo.java" afterDir="false" />
+    <list default="true" id="7c265e9b-6f64-4f71-a15a-287a6361e5b9" name="Changes" comment="Almost final, only Shape package remains">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bank/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +41,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/tenuun.enhzsargal/Desktop/Progmatic/projektek/jul22oopModulzaro/src/Main.java&quot;
   }
 }</component>
@@ -83,6 +68,18 @@
       <option name="presentableId" value="Default" />
       <updated>1690014397203</updated>
     </task>
+    <task id="LOCAL-00001" summary="Almost final, only Shape package remains">
+      <created>1690025989463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690025989463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Almost final, only Shape package remains" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost final, only Shape package remains" />
   </component>
 </project>

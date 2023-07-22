@@ -55,10 +55,6 @@ public class BankAccount {
 
 
     public static void isValidAccountNumber(List<String> accountNumber){
-        int
 
-        for (int i = 0; i < accountNumber.size(); i++) {
-            accountNumber
         }
     }
-}
